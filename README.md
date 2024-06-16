@@ -1,15 +1,27 @@
-## Bem vindo ao meu perfil 👋
+## Hello dev's!!
 
-- 🌱 Estudando Java-Script
+![image](https://github.com/leticia-amorim-barbosa/leticia-amorim-barbosa/assets/167029209/a7c6eaf8-2aff-4d30-8bf6-b16ca2e03cca)
 
-- # 💫 Sobre mim:
-Sou uma Desenvolvedora Web iniciante, apaixonada pela área de tecnologia. Busco constantemente aprimorar minhas habilidades e conhecimentos para me tornar uma profissional melhor a cada dia. Através da minha paixão pela tecnologia, encontro motivação para enfrentar novos desafios e explorar novas soluções criativas. Acredito que a área de desenvolvimento web é fascinante, pois oferece infinitas possibilidades de aprendizado e inovação. Estou comprometida em acompanhar as tendências e avanços, buscando sempre me manter atualizada com as mais recentes tecnologias e práticas recomendadas. Estou animada para contribuir com projetos significativos e fazer parte do progresso contínuo da indústria de tecnologia. Juntos, podemos criar soluções incríveis e impulsionar o futuro da web.
+Tenho 17 anos, moro em Angra dos Reis/RJ e sou apaixonada por programação! Sou iniciante nesse universo de TI, mas quanto mais aprendo epasso raiva, mais eu amo tudo isso ❤️
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=leticia-amorim-barbosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leticia-amorim-barbosa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-amorim-barbosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📖 Estou aprendendo Java-Script;
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🤖 Amo fazer robôs;
+
+📫 Se quiser falar comigo ou ver meus  robôzinhos. Pode me mandar mensagem em alguma rede social minha  (talvez eu demore pra responder mas eu juro que eu sou legal🙃). Tenho poucos projetos, mas os que estão desenvolvidos estão nos repositórios. 
+
+
+## Contatos 
+
+<div>
+<a href="https://instagram.com/https://www.instagram.com/bbyy_leticia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:leticiaamorimbarbosa2006@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/leticia-amorim-barbosa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-amorim-barbosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
