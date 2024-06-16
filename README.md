@@ -1,6 +1,7 @@
 ## Hello dev's!!
 
-![image](https://github.com/leticia-amorim-barbosa/leticia-amorim-barbosa/assets/167029209/a7c6eaf8-2aff-4d30-8bf6-b16ca2e03cca)
+![image](https://github.com/leticia-amorim-barbosa/leticia-amorim-barbosa/assets/167029209/6aa67c04-e528-45ec-af36-13ead598ac4f)
+
 
 Tenho 17 anos, moro em Angra dos Reis/RJ e sou apaixonada por programação! Sou iniciante nesse universo de TI, mas quanto mais aprendo epasso raiva, mais eu amo tudo isso ❤️
 
